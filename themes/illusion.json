@@ -205,7 +205,7 @@
 		"panelTitle.activeForeground": "#F8F8F2",
 		"panelTitle.inactiveForeground": "#5F5076",
 		"statusBar.background": "#222126",
-		"statusBar.foreground": "#CBBAE4",
+		"statusBar.foreground": "#DFDAE799",
 		"statusBar.debuggingBackground": "#5F5076",
 		"statusBar.debuggingForeground": "#F8F8F2",
 		"statusBar.noFolderBackground": "#191A21",
@@ -679,7 +679,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#FFB86C",
+				"foreground": "#FFB86C"
 			}
 		},
 		{
@@ -734,10 +734,10 @@
 		{
 			"name": "Language Built-ins",
 			"scope": [
-				"support.function"
+        "entity.name.function"
 			],
 			"settings": {
-				"foreground": "#5AEE95" // javascript
+				"foreground": "#5AEE95"
 			}
 		},
 		{
@@ -765,7 +765,7 @@
 		{
 			"name": "Built-in constants reserved words",
 			"scope": [
-				"support.variable",
+				"support.variable"
 			],
 			"settings": {
 				"foreground": "#8BE9FD"
