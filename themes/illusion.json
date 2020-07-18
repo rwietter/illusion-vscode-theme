@@ -1,9 +1,9 @@
 {
-	"name": "illusion",
+	"name": "Illusion",
 	"type": "dark",
 	"author": "Maurício Witter",
 	"maintainers": [
-		"Maurício Witter <mauriciobw17@gmail.com>"
+		"Maurício Witter <rwietter@gmail.com>"
 	],
 	"semanticClass": "theme.illusion",
 	"semanticHighlighting": true,
