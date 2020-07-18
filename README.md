@@ -6,8 +6,14 @@
 <p align="center">
   <p align="center">Illusion for Visual Studio Code.</p>
   <p align="center">Just a preview.</p>
-  <img src="https://i.imgur.com/55eGfmG.png" alt="preview"/>
+  <img src="https://raw.githubusercontent.com/rwietter/illusion-vscode-theme/master/screenshots/react.png" alt="preview"/>
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rwietter/illusion-vscode-theme/master/screenshots/colors.png" alt="preview"/>
+</p>
+
+---
 
 ### Overview
 
