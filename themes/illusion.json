@@ -58,10 +58,8 @@
 		"welcomePage.background": "#1E1D22",
 		"welcomePage.buttonBackground": "#222126",
 		"welcomePage.buttonHoverBackground": "#252429",
-		/* minimap */
 		"minimap.selectionHighlight": "#B1F0CE75",
-		"minimapSlider.hoverBackground": "#44475A75",
-		/* terminal */
+		"minimap.errorHighlight": "#F3201070",
 		"terminal.background": "#1E1D22",
 		"terminal.foreground": "#F8F8F2",
 		"terminal.ansiBrightBlack": "#5F5076",
@@ -80,7 +78,6 @@
 		"terminal.ansiMagenta": "#FF79C6",
 		"terminal.ansiCyan": "#8BE9FD",
 		"terminal.ansiWhite": "#F8F8F2",
-		// "contrastBorder": "#262629",
 		"sideBar.border": "#292430",
 		"focusBorder": "#5F5076",
 		"foreground": "#CBCBCB",
@@ -121,7 +118,7 @@
 		"sideBar.background": "#1E1D22",
 		"sideBarTitle.foreground": "#F8F8F2",
 		"sideBarSectionHeader.background": "#1E1D22",
-		"sideBarSectionHeader.border": "#3C3349",
+		"sideBarSectionHeader.border": "#1E1D22",
 		"editorGroup.border": "#BD93F9",
 		"editorGroup.dropBackground": "#44475A70",
 		"editorGroupHeader.tabsBackground": "#1E1D22",
