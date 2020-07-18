@@ -28,7 +28,7 @@ A fork of Dracula Official, Illusion is a dark theme for Visual Studio Code
 
 ### Contributing
 
-<p>If you'd like to contribute to this theme, please read the contributing <a href="https://github.com/">guidelines</a>.</p>
+<p>If you'd like to contribute to this theme, please read the contributing <a href="https://github.com/rwietter/illusion-vscode-theme/blob/master/CONTRIBUTING.md">guidelines</a>.</p>
 
 ---
 
