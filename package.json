@@ -1,0 +1,45 @@
+{
+	"name": "llusion",
+	"displayName": "Illusion",
+	"publisher": "rwietter",
+	"version": "0.0.1",
+	"description": "A dark theme based in Dracula Official theme",
+	"maintainers": [
+    "Maurício Witter <rwietter@gmail.com>"
+  ],
+	"engines": {
+		"vscode": "^1.47.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"repository": {
+    "type": "git",
+    "url": "https://github.com/rwietter/illusion-vscode-theme.git"
+  },
+	"icon": "icon.png",
+	"contributes": {
+		"themes": [
+			{
+				"label": "Illusion",
+				"uiTheme": "vs-dark",
+				"path": "./themes/illusion.json"
+			}
+		]
+	},
+	"scripts": {
+		"package": "vsce package -o illusion.vsix",
+		"vsce-publish": "vsce publish"
+	},
+	"keywords": [
+		"Theme",
+		"Dark Theme",
+		"Dracula Based",
+		"Illusion",
+		"Purple Theme"
+	],
+	"galleryBanner": {
+    "color": "#1E1D22",
+    "theme": "dark"
+  }
+}
