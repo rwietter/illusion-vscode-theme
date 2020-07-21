@@ -1,6 +1,5 @@
 <h1 align="center">
-<img width="100px" src="https://imgur.com/eJnRZ9H.png" alt="Illusion logo"><br />
-  Illusion
+<img width="100px" src="https://imgur.com/eJnRZ9H.png" alt="Illusion logo">
 </h1>
 
 <p align="center">
@@ -11,12 +10,14 @@
 <p align="center">
   <h2>Screenshots</h2>
   <h3>Illusion</h3>
-  <img src="https://imgur.com/mnItg1r.png" alt="illusion"/>
+</p>
+<p align="center">
+  <img width="80%" src="https://imgur.com/mnItg1r.png" alt="illusion"/>
 </p>
 <hr/>
 <h3>Illusion Bordered</h3>
 <p align="center">
-  <img src="https://imgur.com/miiiBkM.png" alt="illusion bordered"/>
+  <img width="80%" src="https://imgur.com/miiiBkM.png" alt="illusion bordered"/>
 </p>
 
 ---
