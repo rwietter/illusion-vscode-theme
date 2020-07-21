@@ -1,8 +1,8 @@
 {
-	"name": "llusion",
+	"name": "illusion",
 	"displayName": "Illusion",
 	"publisher": "rwietter",
-	"version": "0.0.1",
+	"version": "0.1.1",
 	"description": "A dark theme based in Dracula Official theme",
 	"maintainers": [
     "Maurício Witter <rwietter@gmail.com>"
@@ -20,10 +20,15 @@
 	"icon": "icon.png",
 	"contributes": {
 		"themes": [
-			{
+      {
 				"label": "Illusion",
 				"uiTheme": "vs-dark",
 				"path": "./themes/illusion.json"
+			},
+			{
+				"label": "Illusion Bordered",
+				"uiTheme": "vs-dark",
+				"path": "./themes/illusion_bordered.json"
 			}
 		]
 	},

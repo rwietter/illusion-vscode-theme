@@ -1,23 +1,30 @@
 <h1 align="center">
-<img width="100px" src="https://i.imgur.com/jyH01Ay.png" alt="Illusion logo"><br />
+<img width="100px" src="https://imgur.com/eJnRZ9H.png" alt="Illusion logo"><br />
   Illusion
 </h1>
 
 <p align="center">
   <p align="center">Illusion for Visual Studio Code.</p>
   <p align="center">Just a preview.</p>
-  <img src="https://raw.githubusercontent.com/rwietter/illusion-vscode-theme/master/screenshots/react.png" alt="preview"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rwietter/illusion-vscode-theme/master/screenshots/colors.png" alt="preview"/>
+  <h2>Screenshots</h2>
+  <hr/>
+  <h3>Illusion</h3>
+  <img src="https://imgur.com/mnItg1r.png" alt="illusion"/>
+</p>
+<hr/>
+<h3>Illusion Bordered</h3>
+<p align="center">
+  <img src="https://imgur.com/miiiBkM.png" alt="illusion bordered"/>
 </p>
 
 ---
 
 ### Overview
 
-A fork of Dracula Official, Illusion is a dark theme for Visual Studio Code
+A fork of Dracula Official, Illusion is a dark theme for Visual Studio Code.
 
 ---
 
