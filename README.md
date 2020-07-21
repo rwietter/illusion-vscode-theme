@@ -10,7 +10,6 @@
 
 <p align="center">
   <h2>Screenshots</h2>
-  <hr/>
   <h3>Illusion</h3>
   <img src="https://imgur.com/mnItg1r.png" alt="illusion"/>
 </p>
