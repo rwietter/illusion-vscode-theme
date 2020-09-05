@@ -88,9 +88,6 @@
 		"editorLightBulb.foreground": "#FF79C6",
 		"editorLightBulbAutoFix.foreground": "#f8fef2",
     
-		"editor.highlightModifiedTabs": true,
-
-		
 		"foreground": "#CBCBCB",
 		"selection.background": "#BD93F9",
 		"errorForeground": "#FF5555",
