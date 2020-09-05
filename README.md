@@ -12,12 +12,12 @@
   <h3>Illusion</h3>
 </p>
 <p align="center">
-  <img width="80%" src="https://imgur.com/mnItg1r.png" alt="illusion"/>
+  <img width="80%" src="https://imgur.com/RhJRqPv.png" alt="illusion"/>
 </p>
 <hr/>
 <h3>Illusion Bordered</h3>
 <p align="center">
-  <img width="80%" src="https://imgur.com/miiiBkM.png" alt="illusion bordered"/>
+  <img width="80%" src="https://i.imgur.com/ZwUh2EV.png" alt="illusion bordered"/>
 </p>
 
 ---
