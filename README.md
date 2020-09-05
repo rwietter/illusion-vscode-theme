@@ -24,7 +24,7 @@
 
 ### Overview
 
-A fork of Dracula Official, Illusion is a dark theme for Visual Studio Code.
+A fork of [Dracula Official](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula), Illusion is a dark theme for Visual Studio Code.
 
 ---
 
