@@ -2,23 +2,27 @@
 <img width="100px" src="https://imgur.com/eJnRZ9H.png" alt="Illusion logo">
 </h1>
 
-<p align="center">
+<div align="center">
   <p align="center">Illusion for Visual Studio Code.</p>
   <p align="center">Just a preview.</p>
-</p>
+</div>
 
-<p align="center">
+<div align="center">
+  <hr />
   <h2>Screenshots</h2>
-  <h3>Illusion</h3>
-</p>
-<p align="center">
+  <p align="center">
+    <img width="80%" src="https://i.imgur.com/spOpb5t.png" alt="illusion"/>
+  </p>
+</div>
+<div align="center">
+  <p>Illusion</p>
   <img width="80%" src="https://imgur.com/RhJRqPv.png" alt="illusion"/>
-</p>
+</div>
 <hr/>
-<h3>Illusion Bordered</h3>
-<p align="center">
+<div align="center">
+<p>Illusion Bordered</p>
   <img width="80%" src="https://i.imgur.com/ZwUh2EV.png" alt="illusion bordered"/>
-</p>
+</div>
 
 ---
 
